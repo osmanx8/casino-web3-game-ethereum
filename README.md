@@ -1,5 +1,7 @@
 # 🔫 𝕸𝖆𝖗𝖛𝖊𝖑 𝕲𝖆𝖒𝖊
-
+...connect info
+t.me/oxalpha_sol
+...
 This project has the purpose of proving that the Marvel game can be part of the web3 space. The game will use a Scaffold ETH template that uses NextJS and Hardhat. Most of the logic will sit off chain, but where it is possible, we can add the functionality on chain.
 - 🧪 DOD: Showcase that Marvel game can be integrated and played using Scaffold ETH by choosing from 3 roles (assassin, police officer, citizen), having a total of 4 players and only one team can win: assassins or the town.
 - ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
@@ -79,7 +81,7 @@ To get started with Marvel game, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/musicmediatech/marvel.git
+git clone https://github.com/osmanx8/marvel.git
 cd marvel
 yarn install
 ```
