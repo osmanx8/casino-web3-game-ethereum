@@ -9,7 +9,7 @@ This project has the purpose of proving that the Marvel game can be part of the 
 
 Here is a screenshot of the app:
 
-![App Screenshot](assets/1.png)
+![Marvel Preview](packages/assets/1.png)
 ## Requirements
 
 Before you begin, you need to install the following tools:
