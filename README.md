@@ -2,7 +2,7 @@
 
 > A multiplayer role-based blockchain game featuring assassins, police, and citizens.
 
-🌐 Telegram: [@oxalpha_sol](https://t.me/web3_maxim)
+🌐 Telegram: [@web3_maxim](https://t.me/web3_maxim)
 
 ![Marvel Game Screenshot](./packages/nextjs/public/bg.jpg)
 
