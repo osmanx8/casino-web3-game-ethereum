@@ -1,8 +1,8 @@
-# 🔫Web3 Marvel Game – A cutting-edge Ethereum GameFi platform powered by Scaffold-ETH, combining the excitement of casino gameplay with crypto rewards in a next-generation decentralized Marvel-themed experience.
+# 🔫Casino Ethereum platform – A cutting-edge Ethereum GameFi platform powered by Scaffold-ETH, combining the excitement of casino gameplay with crypto rewards in a next-generation decentralized Marvel-themed experience.
 
 > A multiplayer role-based blockchain game featuring assassins, police, and citizens.
 
-🌐 Telegram: [@oxalpha_sol](https://t.me/ShadowRusii)
+🌐 Telegram: [@oxalpha_sol](https://t.me/web3_maxim)
 
 ![Marvel Game Screenshot](./packages/nextjs/public/bg.jpg)
 
